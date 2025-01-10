@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("partner 1 changed this string :|");
         System.out.println("kaboom");
-        System.out.println("insert text here");
+        System.out.println("thermonuclear bomb");
         System.out.println("waow");
     }
 }
