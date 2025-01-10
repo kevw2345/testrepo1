@@ -5,6 +5,6 @@ public class Main {
         System.out.println("partner 1 changed this string :|");
         System.out.println("kaboom");
         System.out.println("insert text here");
-        System.out.println("yippee");
+        System.out.println("waow");
     }
 }
