@@ -12,4 +12,8 @@ public class RandomClass {
     public void partner1Method() {
         System.out.println("wahooooooo");
     }
+
+    public void notAMethod(){
+        System.out.println("boo!");
+    }
 }
