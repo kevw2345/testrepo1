@@ -8,4 +8,8 @@ public class RandomClass {
     public void randomMethod() {
         System.out.println("this is my method he is " + num + " decades old");
     }
+
+    public void partner1Method() {
+        System.out.println("wahooooooo");
+    }
 }
