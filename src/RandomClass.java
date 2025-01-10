@@ -4,4 +4,8 @@ public class RandomClass {
     public RandomClass(int num) {
         this.num = num;
     }
+
+    public void randomMethod() {
+        System.out.println("this is my method he is " + num + " decades old");
+    }
 }
