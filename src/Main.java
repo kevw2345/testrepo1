@@ -2,9 +2,9 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Goodbye world");
+        System.out.println("Hello World");
         System.out.println("kaboom");
         System.out.println("insert text here");
-        System.out.println("yippee");
+        System.out.println("waow");
     }
 }
